@@ -1,0 +1,2 @@
+# Count the pipeline code, not the notebook's embedded chart images, in GitHub's language stats
+*.ipynb linguist-detectable=false
