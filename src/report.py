@@ -59,6 +59,15 @@ def findings(card, audit):
         f"**Data availability.** {len(usable)} of {n} indicators have any Bahamas data since 2000. "
         f"On average The Bahamas has a value for {audit.bhs_coverage.mean():.0%} of years, "
         f"against {audit.peer_coverage.mean():.0%} for Barbados, Jamaica and Trinidad and Tobago.")
+    goals = pd.read_csv(ROOT / "config" / "goals.csv")
+    covered = set(card.goal.str.extract(r"Goal (\d+)")[0].astype(int))
+    missing = goals[~goals.goal.isin(covered)]
+    line = f"**Goal coverage.** {len(goals) - len(missing)} of the plan's {len(goals)} goals have at least one indicator."
+    if len(missing):
+        line += (" Not yet covered: "
+                 + "; ".join(f"Goal {r.goal} ({r.name.lower()})" for r in missing.itertuples())
+                 + ". International data here is thin, so these will mostly need national sources.")
+    out.append(line)
     if len(gaps):
         items = "; ".join(f"{r.short_name} ({r.gap}"
                           + (f", latest {yr(r.latest_year)}" if has(r.latest_year) else "") + ")"

@@ -8,11 +8,14 @@ using open World Bank data, and asks three questions:
 2. **Is it moving the right way?** Value at the 2016 baseline (when Vision 2040 planning began) against the latest
    value, plus a statistical test of the trend since 2010.
 3. **How do we compare?** The Bahamas against Barbados, Jamaica, Trinidad and Tobago and the Caribbean
-   small states average.
+   small states aggregate.
 
-The plan's working draft sets out 16 goals but no published indicator set, so this project proposes 20
-indicators, each mapped to a pillar and goal. The data-availability audit matters as much as the
-trends: an indicator with no recent data can't be monitored.
+The plan's [2nd Working Draft (2017)](https://cepei.org/wp-content/uploads/2019/10/Vision-2040-National-Development-Plan-of-the-Bahamas.pdf)
+sets out 16 goals and, in Part D, proposes outcome indicators for each one. Most of those have no baseline
+or target yet, and no monitoring framework has been formally adopted. This project tests what can be tracked
+today from open international data: 32 World Bank indicators, each mapped to a pillar and one of the 16 goals
+(`config/goals.csv`). The data-availability audit matters as much as the trends: an indicator with no recent
+data can't be monitored.
 
 ![Headline indicators, The Bahamas vs Caribbean peers](outputs/figures/peer_trends.png)
 
@@ -26,6 +29,8 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
 ### Key findings
 
 - **Data availability.** 29 of 32 indicators have any Bahamas data since 2000. On average The Bahamas has a value for 82% of years, against 82% for Barbados, Jamaica and Trinidad and Tobago.
+
+- **Goal coverage.** 12 of the plan's 16 goals have at least one indicator. Not yet covered: Goal 4 (administration of justice); Goal 8 (land administration); Goal 10 (interconnected transport); Goal 16 (culture). International data here is thin, so these will mostly need national sources.
 
 - **Gaps that would block monitoring** (no data, sparse, or more than 3 years old): Intentional homicides (Out of date, latest 2022); Premature NCD deaths (30-70) (Out of date, latest 2021); Tertiary enrollment (No Bahamas data); Income inequality (Gini) (No Bahamas data); Renewable energy share (Out of date, latest 2022); Safely managed drinking water (No Bahamas data); Private sector credit (Out of date, latest 2016); Tourism receipts share of exports (Out of date, latest 2020).
 
@@ -101,7 +106,8 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
   and the World Bank publishes no group figure for the governance indicators or for years when too few members
   report. It appears in the charts and scorecard only and never affects the ranks.
 - **Proposed indicators, not official ones.** These are World Bank series chosen to fit the plan's goals,
-  not an official Vision 2040 results framework. National sources such as the
+  not the plan's own Part D indicators or an adopted Vision 2040 results framework. Many Part D indicators
+  (SDG survey measures, administrative counts) have no international series. National sources such as the
   [Bahamas National Statistical Institute](https://www.bahamas.gov.bs/statistics) may hold more recent
   figures.
 - **Possible code changes.** The governance indicators come from the Worldwide Governance Indicators
