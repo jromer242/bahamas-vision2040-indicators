@@ -77,7 +77,8 @@ def findings(card, audit):
         rows = scored[scored.status == status]
         if len(rows):
             items = "; ".join(f"{r.short_name} ({fmt(r.baseline)} in {yr(r.baseline_year)} → {fmt(r.latest)} in {yr(r.latest_year)})"
-                              if has(r.baseline_year) else f"{r.short_name} (latest {fmt(r.latest)}, {yr(r.latest_year)})"
+                              if has(r.baseline_year) and r.baseline_year != r.latest_year
+                              else f"{r.short_name} (latest {fmt(r.latest)}, {yr(r.latest_year)})"
                               for r in rows.itertuples())
             out.append(f"**{status}:** {items}.")
 
