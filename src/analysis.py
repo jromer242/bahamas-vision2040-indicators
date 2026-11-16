@@ -81,24 +81,34 @@ def classify(better, t):
 
 
 def peer_rank(df, code, better):
-    """Rank The Bahamas among itself and the three peers on each country's latest value (1 = best)."""
-    latest = (df[(df.indicator == code) & df.country.isin([FOCUS] + PEERS)]
-              .sort_values("year").groupby("country").tail(1).set_index("country"))
-    # Only compare values from roughly the same period
-    latest = latest[latest.year >= latest.year.max() - STALE_AFTER] if len(latest) else latest
-    if FOCUS not in latest.index or better == "none" or len(latest) < 2:
-        return None, len(latest)
-    ranks = latest["value"].rank(ascending=(better == "down"), method="min")
-    return int(ranks[FOCUS]), len(latest)
+    """Rank The Bahamas against the three peers (1 = best) in the latest year all four have data.
+
+    Returns (rank, n_ranked, rank_year). Using one common year keeps the comparison like for like.
+    """
+    countries = [FOCUS] + PEERS
+    if better == "none":
+        return None, 0, None
+    wide = (df[(df.indicator == code) & df.country.isin(countries)]
+            .pivot_table(index="year", columns="country", values="value")
+            .reindex(columns=countries).dropna())
+    if wide.empty:
+        return None, 0, None
+    year = int(wide.index.max())
+    ranks = wide.loc[year].rank(ascending=(better == "down"), method="min")
+    return int(ranks[FOCUS]), len(countries), year
 
 
 def scorecard(df, indicators):
+    # An indicator the audit flags as out of date or missing can't be monitored, so it gets no trend label
+    gap = coverage_audit(df, indicators).set_index("indicator")["gap"]
     rows = []
     for ind in indicators.itertuples():
         s = df[(df.indicator == ind.code) & (df.country == FOCUS)].set_index("year")["value"]
         b_year, b_val, l_year, l_val = baseline_latest(s)
         t = trend_test(s)
-        rank, n_ranked = peer_rank(df, ind.code, ind.better)
+        status = ("Out of date" if gap[ind.code] in ("Out of date", "No Bahamas data")
+                  else classify(ind.better, t))
+        rank, n_ranked, rank_year = peer_rank(df, ind.code, ind.better)
         css = df[(df.indicator == ind.code) & (df.country == "CSS")].sort_values("year")
         rows.append({
             "pillar": ind.pillar, "goal": ind.goal, "indicator": ind.code, "short_name": ind.short_name,
@@ -107,8 +117,8 @@ def scorecard(df, indicators):
             "change": (l_val - b_val) if b_val is not None and l_val is not None else None,
             "trend_n": t["n"], "slope_per_year": t["slope"], "slope_ci_low": t["ci_low"],
             "slope_ci_high": t["ci_high"], "p_value": t["p_value"],
-            "status": classify(ind.better, t),
-            "peer_rank": rank, "n_ranked": n_ranked,
+            "status": status,
+            "peer_rank": rank, "n_ranked": n_ranked, "rank_year": rank_year,
             "caribbean_small_states_latest": float(css.value.iloc[-1]) if len(css) else None,
         })
     return pd.DataFrame(rows)

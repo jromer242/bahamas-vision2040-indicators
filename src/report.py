@@ -33,7 +33,7 @@ def yr(v):
 
 
 def trend_cell(r):
-    if r.status in ("Too little data", "Context only") or pd.isna(r.slope_per_year):
+    if r.status in ("Too little data", "Context only", "Out of date") or pd.isna(r.slope_per_year):
         return r.status
     return f"{r.status} ({fmt(r.slope_per_year)}/yr, p={r.p_value:.3f})"
 
@@ -44,7 +44,7 @@ def scorecard_markdown(card):
     for r in card.itertuples():
         base = f"{fmt(r.baseline)} ({yr(r.baseline_year)})" if has(r.baseline_year) else "–"
         latest = f"{fmt(r.latest)} ({yr(r.latest_year)})" if has(r.latest_year) else "No data"
-        rank = f"{int(r.peer_rank)} of {int(r.n_ranked)}" if has(r.peer_rank) else "–"
+        rank = f"{int(r.peer_rank)} of {int(r.n_ranked)} ({yr(r.rank_year)})" if has(r.peer_rank) else "–"
         name = f"{r.short_name} <sub>{r.unit}</sub>"
         lines.append(f"| {r.pillar} | {name} | {base} | {latest} | {trend_cell(r)} | {rank} |")
     return "\n".join(lines)
@@ -70,7 +70,8 @@ def findings(card, audit):
     counts = scored.status.value_counts()
     out.append("**Direction of travel since " f"{TREND_START}** (linear trend, {int((1 - ALPHA) * 100)}% "
                "confidence): " + ", ".join(f"{counts.get(k, 0)} {k.lower()}"
-                                           for k in ["Improving", "Worsening", "No clear trend", "Too little data"])
+                                           for k in ["Improving", "Worsening", "No clear trend", "Too little data",
+                                                     "Out of date"] if counts.get(k, 0))
                + f". The trend uses every year since {TREND_START}, so it can differ from the {BASELINE_YEAR}"
                "-to-latest change shown in brackets.")
     for status in ["Improving", "Worsening"]:
@@ -82,10 +83,10 @@ def findings(card, audit):
                               for r in rows.itertuples())
             out.append(f"**{status}:** {items}.")
 
+    # Ranks compare all four countries in the latest year they all have data (shown in brackets)
     ranked = card.dropna(subset=["peer_rank"])
-    ranked = ranked[ranked.n_ranked == 4]   # all three peers have comparable recent data
-    best = ranked[ranked.peer_rank == 1].short_name.tolist()
-    worst = ranked[ranked.peer_rank == 4].short_name.tolist()
+    best = [f"{r.short_name} ({yr(r.rank_year)})" for r in ranked[ranked.peer_rank == 1].itertuples()]
+    worst = [f"{r.short_name} ({yr(r.rank_year)})" for r in ranked[ranked.peer_rank == 4].itertuples()]
     if best:
         out.append(f"**Ahead of all three peers:** {', '.join(best)}.")
     if worst:

@@ -28,6 +28,6 @@ FS.AST.PRVT.GD.ZS,Private sector credit,Economy,Goal 12: Healthy macro-economy,u
 GOV_WGI_RQ.EST,Regulatory quality,Economy,Goal 14: Diversified economy,up,index (-2.5 to 2.5),3
 ST.INT.RCPT.XP.ZS,Tourism receipts share of exports,Economy,Goal 14: Diversified economy,none,% of exports,
 NE.EXP.GNFS.ZS,Exports of goods and services,Economy,Goal 14: Diversified economy,up,% of GDP,
-TM.VAL.FOOD.ZS.UN,Food imports,Economy,Goal 14: Diversified economy,down,% of merchandise imports,
+TM.VAL.FOOD.ZS.UN,Food imports,Economy,Goal 14: Diversified economy,none,% of merchandise imports,
 SL.UEM.TOTL.ZS,Unemployment,Economy,Goal 15: Fair labour regime,down,% of labour force,
 SL.UEM.1524.ZS,Youth unemployment,Economy,Goal 15: Fair labour regime,down,% of ages 15-24,
