@@ -25,15 +25,15 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
 
 ### Key findings
 
-- **Data availability.** 19 of 20 indicators have any Bahamas data since 2000. On average The Bahamas has a value for 85% of years, against 87% for Barbados, Jamaica and Trinidad and Tobago.
+- **Data availability.** 23 of 24 indicators have any Bahamas data since 2000. On average The Bahamas has a value for 87% of years, against 88% for Barbados, Jamaica and Trinidad and Tobago.
 
 - **Gaps that would block monitoring** (no data, sparse, or more than 3 years old): Intentional homicides (Out of date, latest 2022); Tertiary enrollment (No Bahamas data); Renewable energy share (Out of date, latest 2022); Tourism receipts share of exports (Out of date, latest 2020).
 
-- **Direction of travel since 2010** (linear trend, 95% confidence): 6 improving, 5 worsening, 6 no clear trend, 1 too little data.
+- **Direction of travel since 2010** (linear trend, 95% confidence): 6 improving, 8 worsening, 7 no clear trend, 1 too little data. The trend uses every year since 2010, so it can differ from the 2016-to-latest change shown in brackets.
 
 - **Improving:** Public education spending (2.59 in 2016 → 2.74 in 2023); Adolescent fertility (29.0 in 2016 → 24.5 in 2024); Protected areas (1.20 in 2016 → 8.30 in 2025); Internet users (80.0 in 2016 → 92.5 in 2024); Unemployment (12.7 in 2016 → 9.21 in 2025); Youth unemployment (25.8 in 2016 → 19.2 in 2025).
 
-- **Worsening:** Government effectiveness (0.66 in 2016 → 0.65 in 2025); Control of corruption (1.09 in 2016 → 1.04 in 2025); Renewable energy share (1.20 in 2016 → 1.10 in 2022); CO2 emissions per capita (3.21 in 2016 → 3.64 in 2024); Central government debt (50.2 in 2016 → 71.5 in 2024).
+- **Worsening:** Government effectiveness (0.66 in 2016 → 0.65 in 2025); Control of corruption (1.09 in 2016 → 1.04 in 2025); Voice and accountability (0.59 in 2016 → 0.63 in 2025); Rule of law (0.40 in 2016 → 0.23 in 2025); Renewable energy share (1.20 in 2016 → 1.10 in 2022); CO2 emissions per capita (3.21 in 2016 → 3.64 in 2024); Central government debt (50.2 in 2016 → 71.5 in 2024); Regulatory quality (0.20 in 2016 → -0.09 in 2025).
 
 - **Ahead of all three peers:** Government effectiveness, Adolescent fertility, Protected areas, Internet users, GDP per capita, GDP growth.
 
@@ -45,6 +45,9 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
 |---|---|---|---|---|---|
 | Governance | Government effectiveness <sub>index (-2.5 to 2.5)</sub> | 0.66 (2016) | 0.65 (2025) | Worsening (-0.02/yr, p=0.001) | 1 of 4 |
 | Governance | Control of corruption <sub>index (-2.5 to 2.5)</sub> | 1.09 (2016) | 1.04 (2025) | Worsening (-0.02/yr, p=0.007) | 2 of 4 |
+| Governance | Voice and accountability <sub>index (-2.5 to 2.5)</sub> | 0.59 (2016) | 0.63 (2025) | Worsening (-0.02/yr, p=0.001) | 2 of 4 |
+| Governance | Political stability <sub>index (-2.5 to 2.5)</sub> | 0.80 (2016) | 1.02 (2025) | No clear trend (0.00/yr, p=0.718) | 2 of 4 |
+| Governance | Rule of law <sub>index (-2.5 to 2.5)</sub> | 0.40 (2016) | 0.23 (2025) | Worsening (-0.04/yr, p=0.000) | 2 of 4 |
 | Governance | Intentional homicides <sub>per 100k people</sub> | 28.6 (2016) | 32.2 (2022) | No clear trend (-0.39/yr, p=0.331) | 2 of 4 |
 | Human Capital | Life expectancy at birth <sub>years</sub> | 74.0 (2016) | 74.7 (2024) | No clear trend (-0.01/yr, p=0.920) | 2 of 4 |
 | Human Capital | Under-5 mortality <sub>per 1k live births</sub> | 13.8 (2016) | 12.4 (2024) | No clear trend (-0.11/yr, p=0.522) | 2 of 4 |
@@ -60,6 +63,7 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
 | Economy | GDP growth <sub>annual %</sub> | -1.16 (2016) | 3.38 (2024) | No clear trend (0.27/yr, p=0.587) | 1 of 4 |
 | Economy | Inflation <sub>annual %</sub> | -0.35 (2016) | 1.11 (2025) | No clear trend (0.04/yr, p=0.644) | 3 of 4 |
 | Economy | Central government debt <sub>% of GDP</sub> | 50.2 (2016) | 71.5 (2024) | Worsening (3.48/yr, p=0.000) | – |
+| Economy | Regulatory quality <sub>index (-2.5 to 2.5)</sub> | 0.20 (2016) | -0.09 (2025) | Worsening (-0.05/yr, p=0.000) | 3 of 4 |
 | Economy | Tourism receipts share of exports <sub>% of exports</sub> | 79.6 (2016) | 59.6 (2020) | Context only | – |
 | Economy | Unemployment <sub>% of labour force</sub> | 12.7 (2016) | 9.21 (2025) | Improving (-0.44/yr, p=0.000) | 4 of 4 |
 | Economy | Youth unemployment <sub>% of ages 15-24</sub> | 25.8 (2016) | 19.2 (2025) | Improving (-0.85/yr, p=0.000) | 4 of 4 |
@@ -69,7 +73,7 @@ _Generated from World Bank data downloaded on 2026-11-16. Baseline = nearest yea
 
 | Step | What it does |
 |---|---|
-| **Indicator framework** | `config/indicators.csv` maps 20 World Bank indicators to the Vision 2040 pillars (Governance, Human Capital, Environment, Economy) and goals, with the desired direction for each (higher or lower is better). Health spending and tourism's share of exports are tracked as context, with no target direction. |
+| **Indicator framework** | `config/indicators.csv` maps 24 World Bank indicators to the Vision 2040 pillars (Governance, Human Capital, Environment, Economy) and goals, with the desired direction for each (higher or lower is better). Health spending and tourism's share of exports are tracked as context, with no target direction. |
 | **Data collection** | `src/fetch.py` calls the [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392) for The Bahamas, three peers and the Caribbean small states aggregate, 2000 to today. Raw responses are cached in `data/raw/` for reproducibility. Indicators the API doesn't return are logged, not dropped. |
 | **Data audit** | Share of years with a value, first and latest year, and a gap flag: *no data*, *out of date* (latest value more than 3 years old) or *sparse* (under 50% of years). |
 | **Baseline vs latest** | Baseline is the observation nearest to 2016, within ±2 years. |

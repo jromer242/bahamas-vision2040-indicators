@@ -683,6 +683,406 @@ GOV_WGI_GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +
 GOV_WGI_GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2023,0.2906218
 GOV_WGI_GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2024,0.2132606
 GOV_WGI_GE.EST,Government Effectiveness - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2025,0.2341565
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2000,1.0630105
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2002,0.8176658
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2003,0.734786
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2004,0.68556
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2005,0.8509092
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2006,0.7635854
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2007,0.6689024
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2008,0.6903271
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2009,0.8403413
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2010,0.9040672
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2011,0.9593846
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2012,0.9785234
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2013,0.9687627
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2014,0.819431
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2015,0.7375662
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2016,0.7955789
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2017,0.8151344
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2018,0.7165798
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2019,0.6976052
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2020,0.7166663
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2021,0.7444426
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2022,0.8676712
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2023,1.049793
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2024,1.0499307
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2025,1.0197796
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2000,0.8920824
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2002,0.8957258
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2003,0.7703032
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2004,0.9783114
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2005,1.0920123
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2006,0.9171036
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2007,1.0840525
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2008,1.1643748
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2009,1.2796141
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2010,1.1789197
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2011,1.1711426
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2012,1.238257
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2013,1.2173222
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2014,1.3448049
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2015,1.1314147
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2016,0.8238724
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2017,0.8239052
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2018,0.7819653
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2019,0.9614634
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2020,1.0454659
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2021,1.0796681
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2022,1.207896
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2023,1.2806838
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2024,1.280818
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2025,1.280593
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2000,-0.3046346
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2002,-0.4917132
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2003,-0.6046691
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2004,-0.3471994
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2005,-0.3292397
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2006,-0.3422801
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2007,-0.2047703
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2008,-0.2706136
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2009,-0.3446906
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2010,-0.4026373
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2011,-0.1430871
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2012,0.0443048
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2013,0.121997
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2014,0.0389814
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2015,0.0678637
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2016,0.0833945
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2017,0.1228662
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2018,0.1581533
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2019,0.1668997
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2020,0.137444
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2021,0.1278841
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2022,0.43706
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2023,0.4707602
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2024,0.4740758
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2025,0.5433289
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2000,-0.021546
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2002,-0.2274652
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2003,-0.3009577
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2004,-0.0708976
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2005,-0.0636444
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2006,-0.2092192
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2007,-0.0797965
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2008,0.0285587
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2009,0.035826
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2010,0.0421842
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2011,0.1343899
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2012,0.139227
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2013,0.0748632
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2014,0.1693219
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2015,0.0671697
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2016,0.0371968
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2017,0.0692541
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2018,0.1082133
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2019,0.0985651
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2020,0.0581993
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2021,0.1465892
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2022,0.3365047
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2023,0.3402221
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2024,0.3540743
+GOV_WGI_PV.EST,Political Stability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2025,0.4676131
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2000,1.0628361
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2002,1.3256571
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2003,1.3246046
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2004,1.2875528
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2005,1.4405063
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2006,1.1840571
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2007,1.3385134
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2008,1.2860513
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2009,0.8818296
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2010,0.8354193
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2011,0.7510966
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2012,0.6103674
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2013,0.6083451
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2014,0.4205393
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2015,0.4548144
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2016,0.4045607
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2017,0.338075
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2018,0.3353627
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2019,0.3363454
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2020,0.3026315
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2021,0.3410214
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2022,0.2521094
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2023,0.2702288
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2024,0.2463658
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2025,0.2294239
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2000,1.3871155
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2002,1.3969594
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2003,1.3957441
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2004,1.2578834
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2005,1.422603
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2006,1.2953379
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2007,1.3919768
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2008,1.4281554
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2009,1.1393097
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2010,1.1547311
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2011,1.1744751
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2012,1.136985
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2013,1.1119856
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2014,1.0475442
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2015,1.0874525
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2016,1.0603161
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2017,0.9650955
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2018,0.8147024
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2019,0.7586207
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2020,0.6886086
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2021,0.67486
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2022,0.6968726
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2023,0.7153081
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2024,0.7095674
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2025,0.7196051
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2000,-0.6079032
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2002,-0.3679521
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2003,-0.3733725
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2004,-0.2569656
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2005,-0.2368916
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2006,-0.2777033
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2007,-0.1780283
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2008,-0.1919046
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2009,-0.3286701
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2010,-0.4140407
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2011,-0.3052799
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2012,-0.3747291
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2013,-0.2903209
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2014,-0.2027874
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2015,-0.134741
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2016,-0.1334751
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2017,-0.0828246
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2018,-0.1310813
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2019,-0.1771732
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2020,-0.1043769
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2021,-0.0753606
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2022,-0.0691845
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2023,-0.0978181
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2024,-0.0897689
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2025,-0.030127
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2000,0.3790393
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2002,0.4006678
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2003,0.2125462
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2004,0.1013494
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2005,0.1486912
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2006,-0.1111364
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2007,-0.0034614
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2008,-0.0595184
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2009,-0.0634522
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2010,-0.0908831
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2011,-0.1195009
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2012,-0.0891396
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2013,-0.1585634
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2014,0.0203316
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2015,0.011353
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2016,-0.0208235
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2017,0.0023912
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2018,-0.1189524
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2019,-0.1287881
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2020,-0.141639
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2021,-0.1364024
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2022,-0.2456234
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2023,-0.3260038
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2024,-0.3679457
+GOV_WGI_RL.EST,Rule of Law - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2025,-0.3488901
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2000,1.0515361
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2002,1.319196
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2003,1.226296
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2004,1.0520596
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2005,1.2249259
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2006,1.1446439
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2007,1.1453987
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2008,1.1429333
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2009,0.6711731
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2010,0.5681796
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2011,0.5171956
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2012,0.5140696
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2013,0.3583473
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2014,0.2813959
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2015,0.1640117
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2016,0.1991554
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2017,0.0444722
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2018,0.1059301
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2019,-0.0614142
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2020,-0.0630748
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2021,-0.0704195
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2022,-0.1247361
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2023,-0.146744
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2024,-0.1580753
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2025,-0.0883696
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2000,1.3785818
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2002,1.190731
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2003,1.192788
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2004,0.8532678
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2005,1.2373664
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2006,1.0790103
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2007,1.17718
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2008,1.1433733
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2009,0.7241263
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2010,0.5910044
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2011,0.6907814
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2012,0.6309704
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2013,0.622936
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2014,0.3597117
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2015,0.5576231
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2016,0.5163567
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2017,0.4177642
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2018,0.402708
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2019,0.392552
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2020,0.423284
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2021,0.4825419
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2022,0.415917
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2023,0.4372336
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2024,0.4456402
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2025,0.3939678
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2000,0.0552846
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2002,0.1047612
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2003,0.1403417
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2004,0.2084039
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2005,0.228671
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2006,0.3312851
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2007,0.3321653
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2008,0.3108671
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2009,0.2920475
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2010,0.2975534
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2011,0.2488931
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2012,0.0465752
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2013,0.0775391
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2014,0.0907903
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2015,0.1540076
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2016,0.1672659
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2017,0.1365858
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2018,0.1759467
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2019,0.1697454
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2020,0.1369656
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2021,0.2128784
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2022,0.2147221
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2023,0.1365987
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2024,0.0707576
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2025,0.0155476
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2000,0.5737891
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2002,0.6694394
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2003,0.7144801
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2004,0.6113329
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2005,0.6380106
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2006,0.502274
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2007,0.5442331
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2008,0.5285222
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2009,0.4715176
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2010,0.4781483
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2011,0.4679824
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2012,0.3855912
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2013,0.3531588
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2014,0.1212956
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2015,0.0428837
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2016,0.004257
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2017,0.0019037
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2018,-0.0514346
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2019,-0.0812216
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2020,-0.1061532
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2021,-0.038458
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2022,-0.0578419
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2023,-0.1461109
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2024,-0.201658
+GOV_WGI_RQ.EST,Regulatory Quality - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2025,-0.1775546
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2000,1.1621812
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2002,1.0857168
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2003,0.9552167
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2004,0.9907264
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2005,1.0553315
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2006,1.0545808
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2007,1.1403336
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2008,1.1410865
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2009,0.9572351
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2010,0.9566391
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2011,0.9247075
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2012,0.9259937
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2013,0.9228493
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2014,0.9254786
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2015,0.6845627
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2016,0.5885442
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2017,0.6043284
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2018,0.6035167
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2019,0.6951516
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2020,0.6947981
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2021,0.7307024
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2022,0.6826115
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2023,0.6532098
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2024,0.6399389
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BHS,"Bahamas, The",2025,0.6321424
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2000,1.19371
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2002,1.1897401
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2003,1.0761708
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2004,1.0015045
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2005,1.0391654
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2006,1.0582428
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2007,1.0746835
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2008,1.0238581
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2009,1.2463261
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2010,1.2265266
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2011,1.2112644
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2012,1.1908262
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2013,1.1756699
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2014,1.1628088
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2015,1.0420331
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2016,1.0307399
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2017,0.9895979
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2018,1.0328167
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2019,1.0113814
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2020,1.0320906
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2021,1.056541
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2022,1.069856
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2023,1.0661768
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2024,1.070571
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),BRB,Barbados,2025,1.085668
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2000,0.4896315
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2002,0.46267
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2003,0.475985
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2004,0.4681251
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2005,0.5770172
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2006,0.6623691
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2007,0.6933896
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2008,0.6600072
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2009,0.660415
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2010,0.5675489
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2011,0.4772337
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2012,0.5146538
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2013,0.5750858
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2014,0.6046419
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2015,0.6421676
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2016,0.6440166
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2017,0.648072
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2018,0.5399457
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2019,0.5555553
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2020,0.5809034
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2021,0.5735708
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2022,0.5673805
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2023,0.5639726
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2024,0.5427768
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),JAM,Jamaica,2025,0.5946503
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2000,0.5303114
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2002,0.5592999
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2003,0.6348814
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2004,0.6112295
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2005,0.7504109
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2006,0.6680227
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2007,0.6272408
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2008,0.6764709
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2009,0.7029853
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2010,0.7126445
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2011,0.6993105
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2012,0.6782666
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2013,0.6504424
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2014,0.6403067
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2015,0.557589
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2016,0.5624746
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2017,0.5655644
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2018,0.5426563
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2019,0.5394467
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2020,0.5615078
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2021,0.568496
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2022,0.5467467
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2023,0.5597271
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2024,0.5201986
+GOV_WGI_VA.EST,Voice and Accountability - Governance estimate (approx. -2.5 to +2.5),TTO,Trinidad and Tobago,2025,0.5461367
 IT.NET.USER.ZS,Individuals using the Internet (% of population),BHS,"Bahamas, The",2000,8.0
 IT.NET.USER.ZS,Individuals using the Internet (% of population),BHS,"Bahamas, The",2001,11.8
 IT.NET.USER.ZS,Individuals using the Internet (% of population),BHS,"Bahamas, The",2002,18.0

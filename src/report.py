@@ -70,7 +70,9 @@ def findings(card, audit):
     counts = scored.status.value_counts()
     out.append("**Direction of travel since " f"{TREND_START}** (linear trend, {int((1 - ALPHA) * 100)}% "
                "confidence): " + ", ".join(f"{counts.get(k, 0)} {k.lower()}"
-                                           for k in ["Improving", "Worsening", "No clear trend", "Too little data"]) + ".")
+                                           for k in ["Improving", "Worsening", "No clear trend", "Too little data"])
+               + f". The trend uses every year since {TREND_START}, so it can differ from the {BASELINE_YEAR}"
+               "-to-latest change shown in brackets.")
     for status in ["Improving", "Worsening"]:
         rows = scored[scored.status == status]
         if len(rows):
